@@ -15,7 +15,7 @@
 		"mongoose": "^5.13.7"
 	},
 	"repository": {
-		"url": ""
+		"url": "https://github.com/kum9748ar/fcc_exercise_tracker_microservice.git"
 	},
 	"license": "MIT",
 	"keywords": [
